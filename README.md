@@ -16,8 +16,8 @@ This project provides a **REST API** that accepts a **plain text query**, conver
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/nl-query-api.git
-cd nl-query-api
+git clone https://github.com/chiragSahani/LLM.git
+cd LLM
 ```
 
 ### 2️⃣ Install Dependencies
